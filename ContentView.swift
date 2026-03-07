@@ -6,6 +6,7 @@ struct ContentView: View {
     @State private var image: UIImage?
     @State private var showCamera = false
     @State private var savedImages: [UIImage] = []
+    @State private var showSavedImages = false
 
     var body: some View {
 
@@ -25,19 +26,27 @@ struct ContentView: View {
                 }
                 .padding()
 
-                Button("Load Saved Images") {
-                    savedImages = loadImages()
+                Button(showSavedImages ? "Hide Saved Images" : "Show Saved Images") {
+
+                    if showSavedImages == false {
+                        savedImages = loadImages()
+                    }
+
+                    showSavedImages.toggle()
+                
                 }
 
-                List(savedImages.indices, id: \.self) { i in
-                    Image(uiImage: savedImages[i])
-                        .resizable()
-                        .scaledToFit()
-                        .frame(height: 120)
+                if showSavedImages {
+                    List(savedImages.indices, id: \.self) { i in
+                        Image(uiImage: savedImages[i])
+                            .resizable()
+                            .scaledToFit()
+                            .frame(height: 120)
+                    }
                 }
 
             }
-            .navigationTitle("Camera Capture")
+            .navigationTitle("Camera Capture") //Replace with actual title of app
         }
         .sheet(isPresented: $showCamera) {
             ImagePicker(image: $image)
