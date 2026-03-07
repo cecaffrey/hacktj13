@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hacktj-13",
+  "private_key_id": "6105bb84891f7be811d15bb257e24e465e399272",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzgp0rvUXZdrmH\n05bOSi389I1GtCTBGyKCVOg8AiCuBqVjFUbcZHJ58vMqD0T4ihs8la+hbZSUCsTc\n0IuDIxITD1Vp69WOPLUTm/8s3o7/sVxm1slWY7krIMClaXG0exO2U/FHUendx7S2\neE1ltEIynVb0Cd7uJKZW0VL0ZDm+wwQNQfrr0enupbP7yseCcu6YbxK7yVN/MmCA\ntpZiPKGPhQ7yY6MWIJxPPinCyseGJ7VpiCi48fk/hCbf8ws1/+uMMHAqU/hiSzFV\nW9GeAbseXpOygPI3KunGyz58tWUv7CiyuZpnMqps+DWMRX4USjN7dmveKdTeIawm\n8NsxN3iBAgMBAAECggEABIMWqHgYKEVFZSy3c5Vf8fKpr53GkLrTk4gT038c/pLS\nZGevNMn3kKlZKfT65e5lJqqY7aTsYT48c+2jNbDtFHqQ48BjfH3gWIJV/ltuJ7vE\npIPm/EHPo5rHc0DvwTp/JKWYGnoft6avgnVxDv3iOuIQKSkrjjvW/7anCaQqFjZH\nP2snLqJR093a0Q+nk5wAon59I+WfZbd+JOxZISAZzzjvdTSdz6W8ylOn5lfH+4KV\n0PLVN/FGSEkuNvht3cakBGibPHVtQGN+kXY3RO8tjK+d+k6lsNx9Q4kIx7dZ4D6n\n6lz/6XZbXu9YEexw2/Ms5otCNx+NyNJyzTjj0T74UwKBgQDqyvJEVTTjV21ffIIs\nsyWNYV5eVue9Y1spjST3VE6yI3s2KmYbGoA4pP8MUMkwjvvJXz+JV7Psp45mKISF\n07uzYHoisQDiKGEOfuECGPlW/zMumeEezj6FqeiQ15bnqe78QhvO7KZ2dDsUioAE\nBxfC7im3oJeFlPRYRuzB3LkA6wKBgQDDuWIY/kjJRQtPxTh/snJYC/O3VVynMoAZ\np6t4/+g593IweGk5jiK07qofkxhWUWu2R7FDLnD4yRbqky8sAllTGExbA+PgeA3i\n2Tejr/rHsiRYWWDHKZ05M5MzjOLwpg9M0tChxhBuw07WLx37qVPv81xoCEWpkJix\nntMX5Q3xQwKBgQCKsXFkzhRcytMv2YOn1fczybWN8rYXmK5MIDUa6LFH50+sEmWY\nUxI047pJUxtVVNEFBf+pKKZ/AAdM71hBGW7CKhZbkcVc0s9qWaaer5PyQPPB7mId\n6WTjXhekH8XjeO1UE9ULaZ13UXdozduLBYmSu07nSrTW0sN3tgW7CqA6GwKBgCj4\nqq9es6/mUyrctyoMGeGShu8u4Fljuesk7UFEGMHhqba5zhUtStijSVuYuDSBkNG0\nikfs9dsuhSyPqQVGbJp3cKxw0QgROZ7uJ7aNRSr+gJs6AodOj8oEoODesjb8HCHR\n07i5tIDrQ5qUfGtNE/Qb9pEUgjivuzcbb0cGPPfvAoGARHEV5FPh1sH0uj3+zR/2\njY95iEwVEa+Vw0cCoDbohwn5iv7g92vfM6SazeguOUB8cwuRDYIrDf3+8TRaz7A3\npEYWwFfiAcA+kOopdGKE377SoMryYarEKbjHeERr73TSRUrFirVoflKm45XQv/kn\nGsQCuuo9oa1DfOjE24YLGhc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "claire-caffrey@hacktj-13.iam.gserviceaccount.com",
+  "client_id": "110344587731133675842",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/claire-caffrey%40hacktj-13.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
